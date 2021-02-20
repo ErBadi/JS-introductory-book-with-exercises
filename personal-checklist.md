@@ -1,0 +1,4 @@
+- Aprender sobre compilers/interpreters
+- Aprender sobre APIs y su funcionamiento con los runtime environments
+- Read the AirBnB guidestyle for JavaScript [here](https://github.com/airbnb/javascript#types--complex)
+- Aprender más sobre Bash shell
